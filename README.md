@@ -1,0 +1,2 @@
+# ngfire-install-test
+NGFIRE
